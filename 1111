@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="CFB Coin - A new cryptocurrency for supporting Cage Football projects and promoting sports culture.">
+    <title>CFB Coin - Cage Football Blockchain</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <div class="logo">
+                <h1>CFB Coin</h1>
+            </div>
+            <ul>
+                <li><a href="#about">关于</a></li>
+                <li><a href="#roadmap">路线图</a></li>
+                <li><a href="#contact">联系我们</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <div class="hero-text">
+            <h2>欢迎来到 CFB Coin</h2>
+            <p>通过区块链技术推动笼式足球文化，支持基层运动发展。</p>
+            <a href="#about" class="cta-button">了解更多</a>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="section-container">
+            <h2>关于 CFB Coin</h2>
+            <p>CFB Coin 是一个专注于支持笼式足球项目和推广体育文化的加密货币，旨在通过区块链为基层足球项目融资并提高参与度。</p>
+        </div>
+    </section>
+
+    <section id="roadmap">
+        <div class="section-container">
+            <h2>项目路线图</h2>
+            <ul>
+                <li>Q1 2024: 发布 CFB Coin 代币</li>
+                <li>Q2 2024: 与社区合作开展第一场笼式足球赛事</li>
+                <li>Q3 2024: 开始引入更多的投资者和赞助商</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="section-container">
+            <h2>联系我们</h2>
+            <p>如需更多信息，请通过以下方式联系我们：</p>
+            <form action="#" method="post">
+                <input type="email" placeholder="输入你的邮箱" required>
+                <textarea placeholder="输入留言" required></textarea>
+                <button type="submit">发送</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <div class="footer-container">
+            <p>&copy; 2024 CFB Coin. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
